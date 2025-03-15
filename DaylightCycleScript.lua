@@ -1,4 +1,3 @@
-```lua
 local Lighting = game:GetService("Lighting")
 local RunService = game:GetService("RunService")
 
@@ -45,4 +44,3 @@ end)
 if shouldDaylightCycle() then
 	connectHeartbeatConnection()
 end
-```
